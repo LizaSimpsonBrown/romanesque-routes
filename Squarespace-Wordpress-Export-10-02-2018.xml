@@ -1,0 +1,1856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>The Garrotxa</title>
+    <link>https://romanesqueroutes.com</link>
+    <pubDate>Thu, 16 Jun 2016 13:35:32 +0000</pubDate>
+    <description>Romanesque Routes an' all the Rest</description>
+    <language>en-GB</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>1513509222</wp:author_id>
+      <wp:author_login>lizamaneli@gmail.com</wp:author_login>
+      <wp:author_email>lizamaneli@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Liza Simpson Brown]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[liza]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[simpson brown]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[Non-Profit - null]]></wp:cat_name>
+      <wp:category_nicename>Non-Profit-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <title>Capsec</title>
+      <link>/capsec/</link>
+      <pubDate>Fri, 17 Jun 2016 13:59:42 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576316e5b8a79b7fbaf866ac/576400316a4963913a36a3be/1466171982524/IMG_3837.JPG" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576316e5b8a79b7fbaf866ac/57631759d1758e982780fb38/1466171982526/IMG_3859.JPG" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576316e5b8a79b7fbaf866ac/57631748b8a79b7fbaf86944/1466171982518/IMG_3836.JPG" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576316e5b8a79b7fbaf866ac/57631731b8a79b7fbaf868c5/1466171982542/IMG_3870.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576316e5b8a79b7fbaf866ac/57631716b8a79b7fbaf86833/1466112324916/IMG_3861.JPG" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576316e5b8a79b7fbaf866ac/57631702f7e0ab85e73a40d3/1466111768840/IMG_3847.JPG" /></div>]]></content:encoded>
+      <wp:post_name>capsec</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576316e5b8a79b7fbaf866ac/576400316a4963913a36a3be/1466171982524/IMG_3837.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576316e5b8a79b7fbaf866ac/576400316a4963913a36a3be/1466171982524/IMG_3837.JPG</link>
+      <title>attachment-576400316a4963913a36a3be</title>
+      <wp:post_name>IMG-3837-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-576400316a4963913a36a3be]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-576400316a4963913a36a3be]]></excerpt:encoded>
+      <pubDate>Fri, 17 Jun 2016 13:50:41 +0000</pubDate>
+      <wp:post_date>2016-06-17 13:50:41</wp:post_date>
+      <wp:post_date_gmt>2016-06-17 13:50:41</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576316e5b8a79b7fbaf866ac/57631759d1758e982780fb38/1466171982526/IMG_3859.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576316e5b8a79b7fbaf866ac/57631759d1758e982780fb38/1466171982526/IMG_3859.JPG</link>
+      <title>attachment-57631759d1758e982780fb38</title>
+      <wp:post_name>IMG-3859-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57631759d1758e982780fb38]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57631759d1758e982780fb38]]></excerpt:encoded>
+      <pubDate>Thu, 16 Jun 2016 21:17:13 +0000</pubDate>
+      <wp:post_date>2016-06-16 21:17:13</wp:post_date>
+      <wp:post_date_gmt>2016-06-16 21:17:13</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576316e5b8a79b7fbaf866ac/57631748b8a79b7fbaf86944/1466171982518/IMG_3836.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576316e5b8a79b7fbaf866ac/57631748b8a79b7fbaf86944/1466171982518/IMG_3836.JPG</link>
+      <title>attachment-57631748b8a79b7fbaf86944</title>
+      <wp:post_name>IMG-3836-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57631748b8a79b7fbaf86944]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57631748b8a79b7fbaf86944]]></excerpt:encoded>
+      <pubDate>Thu, 16 Jun 2016 21:16:56 +0000</pubDate>
+      <wp:post_date>2016-06-16 21:16:56</wp:post_date>
+      <wp:post_date_gmt>2016-06-16 21:16:56</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576316e5b8a79b7fbaf866ac/57631731b8a79b7fbaf868c5/1466171982542/IMG_3870.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576316e5b8a79b7fbaf866ac/57631731b8a79b7fbaf868c5/1466171982542/IMG_3870.jpg</link>
+      <title>attachment-57631731b8a79b7fbaf868c5</title>
+      <wp:post_name>IMG-3870-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57631731b8a79b7fbaf868c5]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57631731b8a79b7fbaf868c5]]></excerpt:encoded>
+      <pubDate>Thu, 16 Jun 2016 21:16:33 +0000</pubDate>
+      <wp:post_date>2016-06-16 21:16:33</wp:post_date>
+      <wp:post_date_gmt>2016-06-16 21:16:33</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576316e5b8a79b7fbaf866ac/57631716b8a79b7fbaf86833/1466112324916/IMG_3861.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576316e5b8a79b7fbaf866ac/57631716b8a79b7fbaf86833/1466112324916/IMG_3861.JPG</link>
+      <title>attachment-57631716b8a79b7fbaf86833</title>
+      <wp:post_name>IMG-3861-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>5</wp:post_id>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57631716b8a79b7fbaf86833]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57631716b8a79b7fbaf86833]]></excerpt:encoded>
+      <pubDate>Thu, 16 Jun 2016 21:16:06 +0000</pubDate>
+      <wp:post_date>2016-06-16 21:16:06</wp:post_date>
+      <wp:post_date_gmt>2016-06-16 21:16:06</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576316e5b8a79b7fbaf866ac/57631702f7e0ab85e73a40d3/1466111768840/IMG_3847.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576316e5b8a79b7fbaf866ac/57631702f7e0ab85e73a40d3/1466111768840/IMG_3847.JPG</link>
+      <title>attachment-57631702f7e0ab85e73a40d3</title>
+      <wp:post_name>IMG-3847-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>6</wp:post_id>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57631702f7e0ab85e73a40d3]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57631702f7e0ab85e73a40d3]]></excerpt:encoded>
+      <pubDate>Thu, 16 Jun 2016 21:15:46 +0000</pubDate>
+      <wp:post_date>2016-06-16 21:15:46</wp:post_date>
+      <wp:post_date_gmt>2016-06-16 21:15:46</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <title>Sant Salvador de Bianya</title>
+      <link>/new-gallery/</link>
+      <pubDate>Mon, 20 Jun 2016 22:30:17 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e781b631bb40e9c34a3/1466461818103/DSC_0131.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e786a4963a2b8c90c30/1466461817880/DSC_0130.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e781b631bb40e9c349f/1466461817461/DSC_0129.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e776a4963a2b8c90c2a/1466461817128/DSC_0128.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e761b631bb40e9c3489/1466461816177/DSC_0127.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e751b631bb40e9c3486/1466461814499/DSC_0126.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e756a4963a2b8c90c0c/1466461813962/DSC_0125.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e746a4963a2b8c90c09/1466461813490/DSC_0124.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e736a4963a2b8c90c06/1466461812847/DSC_0123.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e736a4963a2b8c90c03/1466461812320/DSC_0122.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e729de4bbe356207661/1466461811170/DSC_0121.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e719de4bbe35620765c/1466461810517/DSC_0120.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e71ebbd1ab05397552a/1466461816209/DSC_0119.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e701b631bb40e9c3463/1466461809622/DSC_0118.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e709de4bbe356207658/1466461809341/DSC_0117.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e701b631bb40e9c3460/1466461809400/DSC_0116.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6f9de4bbe356207651/1466461808689/DSC_0115.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6f8419c29d040a0b60/1466461808586/DSC_0114.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6e8419c29d040a0b5c/1466461808127/DSC_0113.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6eebbd1ab053975509/1466461808125/DSC_0112.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6d6a4963a2b8c90ba9/1466461806843/DSC_0111.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6d9de4bbe35620763e/1466461806285/DSC_0110.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6d9de4bbe35620763b/1466461805819/DSC_0109.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6c6a4963a2b8c90ba4/1466461806067/DSC_0108.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6c6a4963a2b8c90b84/1466461805166/DSC_0107_01.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6c9de4bbe356207635/1466461805308/DSC_0106.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6c1b631bb40e9c343e/1466461804603/DSC_0105.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6b1b631bb40e9c3437/1466461804250/DSC_0104.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6b9de4bbe356207632/1466461804274/DSC_0103.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6a9de4bbe35620762e/1466461804962/DSC_0102.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6a8419c29d040a0b56/1466461803588/DSC_0101.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6a9de4bbe356207628/1466461802913/DSC_0100.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e699de4bbe35620760c/1466461802424/DSC_0099.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e698419c29d040a0b27/1466461802972/DSC_0098.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e696a4963a2b8c90b76/1466461801964/DSC_0097.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e689de4bbe356207606/1466461801488/DSC_0096.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e689de4bbe356207603/1466461801460/DSC_0095.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e686a4963a2b8c90b70/1466461801437/DSC_0094.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e671b631bb40e9c3418/1466461800717/DSC_0093.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e679de4bbe3562075fa/1466461800464/DSC_0092.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e669de4bbe3562075f7/1466461799582/DSC_0091.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e666a4963a2b8c90b52/1466461799435/DSC_0090.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e659de4bbe3562075f3/1466461798901/DSC_0089.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e651b631bb40e9c340e/1466461798755/DSC_0088.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e659de4bbe3562075eb/1466461797978/DSC_0087.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e646a4963a2b8c90b4d/1466461797626/DSC_0086.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e639de4bbe3562075cd/1466461797530/DSC_0085.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e636a4963a2b8c90b48/1466461796763/DSC_0084.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e636a4963a2b8c90b43/1466461795904/DSC_0083.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e626a4963a2b8c90b32/1466461795397/DSC_0082.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e616a4963a2b8c90b2d/1466461794640/DSC_0081_01.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e619de4bbe3562075c7/1466461796226/DSC_0080.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e466a4963a2b8c90a78/1466461766811/IMG_4124.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e469de4bbe3562074f1/1466461766997/IMG_4123.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e456a4963a2b8c90a72/1466461765852/IMG_4122.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e456a4963a2b8c90a6e/1466461765530/IMG_4121.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e459de4bbe3562074dd/1466461766955/IMG_4120.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e446a4963a2b8c90a6b/1466461765052/IMG_4119.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e446a4963a2b8c90a4d/1466461764667/IMG_4118.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e436a4963a2b8c90a48/1466461764224/IMG_4115.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e436a4963a2b8c90a40/1466461763928/IMG_4114.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e439de4bbe3562074da/1466461765062/IMG_4113.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e426a4963a2b8c90a37/1466461763665/IMG_4111.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e421b631bb40e9c3321/1466461763318/IMG_4112.jpg" /></div>]]></content:encoded>
+      <wp:post_name>new-gallery</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>7</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e781b631bb40e9c34a3/1466461818103/DSC_0131.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e781b631bb40e9c34a3/1466461818103/DSC_0131.jpg</link>
+      <title>attachment-57686e781b631bb40e9c34a3</title>
+      <wp:post_name>DSC-0131-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>8</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e781b631bb40e9c34a3]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e781b631bb40e9c34a3]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:16 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:16</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:16</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e786a4963a2b8c90c30/1466461817880/DSC_0130.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e786a4963a2b8c90c30/1466461817880/DSC_0130.jpg</link>
+      <title>attachment-57686e786a4963a2b8c90c30</title>
+      <wp:post_name>DSC-0130-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>9</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e786a4963a2b8c90c30]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e786a4963a2b8c90c30]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:16 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:16</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:16</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e781b631bb40e9c349f/1466461817461/DSC_0129.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e781b631bb40e9c349f/1466461817461/DSC_0129.jpg</link>
+      <title>attachment-57686e781b631bb40e9c349f</title>
+      <wp:post_name>DSC-0129-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>10</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e781b631bb40e9c349f]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e781b631bb40e9c349f]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:16 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:16</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:16</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e776a4963a2b8c90c2a/1466461817128/DSC_0128.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e776a4963a2b8c90c2a/1466461817128/DSC_0128.jpg</link>
+      <title>attachment-57686e776a4963a2b8c90c2a</title>
+      <wp:post_name>DSC-0128-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>11</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e776a4963a2b8c90c2a]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e776a4963a2b8c90c2a]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:15 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:15</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:15</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e761b631bb40e9c3489/1466461816177/DSC_0127.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e761b631bb40e9c3489/1466461816177/DSC_0127.jpg</link>
+      <title>attachment-57686e761b631bb40e9c3489</title>
+      <wp:post_name>DSC-0127-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>12</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e761b631bb40e9c3489]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e761b631bb40e9c3489]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:14 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:14</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:14</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e751b631bb40e9c3486/1466461814499/DSC_0126.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e751b631bb40e9c3486/1466461814499/DSC_0126.jpg</link>
+      <title>attachment-57686e751b631bb40e9c3486</title>
+      <wp:post_name>DSC-0126-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>13</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e751b631bb40e9c3486]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e751b631bb40e9c3486]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:13 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:13</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:13</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e756a4963a2b8c90c0c/1466461813962/DSC_0125.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e756a4963a2b8c90c0c/1466461813962/DSC_0125.jpg</link>
+      <title>attachment-57686e756a4963a2b8c90c0c</title>
+      <wp:post_name>DSC-0125-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>14</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e756a4963a2b8c90c0c]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e756a4963a2b8c90c0c]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:13 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:13</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:13</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e746a4963a2b8c90c09/1466461813490/DSC_0124.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e746a4963a2b8c90c09/1466461813490/DSC_0124.jpg</link>
+      <title>attachment-57686e746a4963a2b8c90c09</title>
+      <wp:post_name>DSC-0124-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>15</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e746a4963a2b8c90c09]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e746a4963a2b8c90c09]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:12 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:12</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:12</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e736a4963a2b8c90c06/1466461812847/DSC_0123.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e736a4963a2b8c90c06/1466461812847/DSC_0123.jpg</link>
+      <title>attachment-57686e736a4963a2b8c90c06</title>
+      <wp:post_name>DSC-0123-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>16</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e736a4963a2b8c90c06]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e736a4963a2b8c90c06]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:11 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:11</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:11</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e736a4963a2b8c90c03/1466461812320/DSC_0122.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e736a4963a2b8c90c03/1466461812320/DSC_0122.jpg</link>
+      <title>attachment-57686e736a4963a2b8c90c03</title>
+      <wp:post_name>DSC-0122-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>17</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e736a4963a2b8c90c03]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e736a4963a2b8c90c03]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:11 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:11</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:11</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e729de4bbe356207661/1466461811170/DSC_0121.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e729de4bbe356207661/1466461811170/DSC_0121.jpg</link>
+      <title>attachment-57686e729de4bbe356207661</title>
+      <wp:post_name>DSC-0121-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>18</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e729de4bbe356207661]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e729de4bbe356207661]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:10 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:10</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:10</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e719de4bbe35620765c/1466461810517/DSC_0120.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e719de4bbe35620765c/1466461810517/DSC_0120.jpg</link>
+      <title>attachment-57686e719de4bbe35620765c</title>
+      <wp:post_name>DSC-0120-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>19</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e719de4bbe35620765c]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e719de4bbe35620765c]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:09 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:09</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:09</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e71ebbd1ab05397552a/1466461816209/DSC_0119.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e71ebbd1ab05397552a/1466461816209/DSC_0119.jpg</link>
+      <title>attachment-57686e71ebbd1ab05397552a</title>
+      <wp:post_name>DSC-0119-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>20</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e71ebbd1ab05397552a]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e71ebbd1ab05397552a]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:09 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:09</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:09</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e701b631bb40e9c3463/1466461809622/DSC_0118.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e701b631bb40e9c3463/1466461809622/DSC_0118.jpg</link>
+      <title>attachment-57686e701b631bb40e9c3463</title>
+      <wp:post_name>DSC-0118-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>21</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e701b631bb40e9c3463]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e701b631bb40e9c3463]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:08 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:08</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:08</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e709de4bbe356207658/1466461809341/DSC_0117.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e709de4bbe356207658/1466461809341/DSC_0117.jpg</link>
+      <title>attachment-57686e709de4bbe356207658</title>
+      <wp:post_name>DSC-0117-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>22</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e709de4bbe356207658]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e709de4bbe356207658]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:08 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:08</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:08</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e701b631bb40e9c3460/1466461809400/DSC_0116.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e701b631bb40e9c3460/1466461809400/DSC_0116.jpg</link>
+      <title>attachment-57686e701b631bb40e9c3460</title>
+      <wp:post_name>DSC-0116-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>23</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e701b631bb40e9c3460]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e701b631bb40e9c3460]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:08 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:08</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:08</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6f9de4bbe356207651/1466461808689/DSC_0115.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6f9de4bbe356207651/1466461808689/DSC_0115.jpg</link>
+      <title>attachment-57686e6f9de4bbe356207651</title>
+      <wp:post_name>DSC-0115-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>24</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e6f9de4bbe356207651]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e6f9de4bbe356207651]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:07 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:07</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:07</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6f8419c29d040a0b60/1466461808586/DSC_0114.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6f8419c29d040a0b60/1466461808586/DSC_0114.jpg</link>
+      <title>attachment-57686e6f8419c29d040a0b60</title>
+      <wp:post_name>DSC-0114-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>25</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e6f8419c29d040a0b60]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e6f8419c29d040a0b60]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:07 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:07</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:07</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6e8419c29d040a0b5c/1466461808127/DSC_0113.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6e8419c29d040a0b5c/1466461808127/DSC_0113.jpg</link>
+      <title>attachment-57686e6e8419c29d040a0b5c</title>
+      <wp:post_name>DSC-0113-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>26</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e6e8419c29d040a0b5c]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e6e8419c29d040a0b5c]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:06 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:06</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:06</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6eebbd1ab053975509/1466461808125/DSC_0112.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6eebbd1ab053975509/1466461808125/DSC_0112.jpg</link>
+      <title>attachment-57686e6eebbd1ab053975509</title>
+      <wp:post_name>DSC-0112-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>27</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e6eebbd1ab053975509]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e6eebbd1ab053975509]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:06 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:06</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:06</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6d6a4963a2b8c90ba9/1466461806843/DSC_0111.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6d6a4963a2b8c90ba9/1466461806843/DSC_0111.jpg</link>
+      <title>attachment-57686e6d6a4963a2b8c90ba9</title>
+      <wp:post_name>DSC-0111-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>28</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e6d6a4963a2b8c90ba9]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e6d6a4963a2b8c90ba9]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:05 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:05</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:05</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6d9de4bbe35620763e/1466461806285/DSC_0110.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6d9de4bbe35620763e/1466461806285/DSC_0110.jpg</link>
+      <title>attachment-57686e6d9de4bbe35620763e</title>
+      <wp:post_name>DSC-0110-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>29</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e6d9de4bbe35620763e]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e6d9de4bbe35620763e]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:05 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:05</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:05</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6d9de4bbe35620763b/1466461805819/DSC_0109.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6d9de4bbe35620763b/1466461805819/DSC_0109.jpg</link>
+      <title>attachment-57686e6d9de4bbe35620763b</title>
+      <wp:post_name>DSC-0109-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>30</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e6d9de4bbe35620763b]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e6d9de4bbe35620763b]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:05 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:05</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:05</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6c6a4963a2b8c90ba4/1466461806067/DSC_0108.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6c6a4963a2b8c90ba4/1466461806067/DSC_0108.jpg</link>
+      <title>attachment-57686e6c6a4963a2b8c90ba4</title>
+      <wp:post_name>DSC-0108-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>31</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e6c6a4963a2b8c90ba4]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e6c6a4963a2b8c90ba4]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:04 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:04</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:04</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6c6a4963a2b8c90b84/1466461805166/DSC_0107_01.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6c6a4963a2b8c90b84/1466461805166/DSC_0107_01.jpg</link>
+      <title>attachment-57686e6c6a4963a2b8c90b84</title>
+      <wp:post_name>DSC-0107-01-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>32</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e6c6a4963a2b8c90b84]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e6c6a4963a2b8c90b84]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:04 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:04</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:04</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6c9de4bbe356207635/1466461805308/DSC_0106.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6c9de4bbe356207635/1466461805308/DSC_0106.jpg</link>
+      <title>attachment-57686e6c9de4bbe356207635</title>
+      <wp:post_name>DSC-0106-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>33</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e6c9de4bbe356207635]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e6c9de4bbe356207635]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:04 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:04</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:04</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6c1b631bb40e9c343e/1466461804603/DSC_0105.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6c1b631bb40e9c343e/1466461804603/DSC_0105.jpg</link>
+      <title>attachment-57686e6c1b631bb40e9c343e</title>
+      <wp:post_name>DSC-0105-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>34</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e6c1b631bb40e9c343e]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e6c1b631bb40e9c343e]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:04 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:04</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:04</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6b1b631bb40e9c3437/1466461804250/DSC_0104.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6b1b631bb40e9c3437/1466461804250/DSC_0104.jpg</link>
+      <title>attachment-57686e6b1b631bb40e9c3437</title>
+      <wp:post_name>DSC-0104-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>35</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e6b1b631bb40e9c3437]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e6b1b631bb40e9c3437]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:03 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:03</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:03</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6b9de4bbe356207632/1466461804274/DSC_0103.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6b9de4bbe356207632/1466461804274/DSC_0103.jpg</link>
+      <title>attachment-57686e6b9de4bbe356207632</title>
+      <wp:post_name>DSC-0103-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>36</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e6b9de4bbe356207632]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e6b9de4bbe356207632]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:03 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:03</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:03</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6a9de4bbe35620762e/1466461804962/DSC_0102.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6a9de4bbe35620762e/1466461804962/DSC_0102.jpg</link>
+      <title>attachment-57686e6a9de4bbe35620762e</title>
+      <wp:post_name>DSC-0102-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>37</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e6a9de4bbe35620762e]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e6a9de4bbe35620762e]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:02 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:02</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:02</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6a8419c29d040a0b56/1466461803588/DSC_0101.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6a8419c29d040a0b56/1466461803588/DSC_0101.jpg</link>
+      <title>attachment-57686e6a8419c29d040a0b56</title>
+      <wp:post_name>DSC-0101-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>38</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e6a8419c29d040a0b56]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e6a8419c29d040a0b56]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:02 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:02</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:02</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6a9de4bbe356207628/1466461802913/DSC_0100.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e6a9de4bbe356207628/1466461802913/DSC_0100.jpg</link>
+      <title>attachment-57686e6a9de4bbe356207628</title>
+      <wp:post_name>DSC-0100-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>39</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e6a9de4bbe356207628]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e6a9de4bbe356207628]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:02 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:02</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:02</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e699de4bbe35620760c/1466461802424/DSC_0099.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e699de4bbe35620760c/1466461802424/DSC_0099.jpg</link>
+      <title>attachment-57686e699de4bbe35620760c</title>
+      <wp:post_name>DSC-0099-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>40</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e699de4bbe35620760c]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e699de4bbe35620760c]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:01 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:01</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:01</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e698419c29d040a0b27/1466461802972/DSC_0098.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e698419c29d040a0b27/1466461802972/DSC_0098.jpg</link>
+      <title>attachment-57686e698419c29d040a0b27</title>
+      <wp:post_name>DSC-0098-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>41</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e698419c29d040a0b27]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e698419c29d040a0b27]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:01 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:01</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:01</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e696a4963a2b8c90b76/1466461801964/DSC_0097.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e696a4963a2b8c90b76/1466461801964/DSC_0097.jpg</link>
+      <title>attachment-57686e696a4963a2b8c90b76</title>
+      <wp:post_name>DSC-0097-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>42</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e696a4963a2b8c90b76]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e696a4963a2b8c90b76]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:01 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:01</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:01</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e689de4bbe356207606/1466461801488/DSC_0096.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e689de4bbe356207606/1466461801488/DSC_0096.jpg</link>
+      <title>attachment-57686e689de4bbe356207606</title>
+      <wp:post_name>DSC-0096-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>43</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e689de4bbe356207606]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e689de4bbe356207606]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:00 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:00</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:00</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e689de4bbe356207603/1466461801460/DSC_0095.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e689de4bbe356207603/1466461801460/DSC_0095.jpg</link>
+      <title>attachment-57686e689de4bbe356207603</title>
+      <wp:post_name>DSC-0095-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>44</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e689de4bbe356207603]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e689de4bbe356207603]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:00 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:00</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:00</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e686a4963a2b8c90b70/1466461801437/DSC_0094.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e686a4963a2b8c90b70/1466461801437/DSC_0094.jpg</link>
+      <title>attachment-57686e686a4963a2b8c90b70</title>
+      <wp:post_name>DSC-0094-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>45</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e686a4963a2b8c90b70]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e686a4963a2b8c90b70]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:30:00 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:30:00</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:30:00</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e671b631bb40e9c3418/1466461800717/DSC_0093.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e671b631bb40e9c3418/1466461800717/DSC_0093.jpg</link>
+      <title>attachment-57686e671b631bb40e9c3418</title>
+      <wp:post_name>DSC-0093-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>46</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e671b631bb40e9c3418]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e671b631bb40e9c3418]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:59 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:59</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:59</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e679de4bbe3562075fa/1466461800464/DSC_0092.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e679de4bbe3562075fa/1466461800464/DSC_0092.jpg</link>
+      <title>attachment-57686e679de4bbe3562075fa</title>
+      <wp:post_name>DSC-0092-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>47</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e679de4bbe3562075fa]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e679de4bbe3562075fa]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:59 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:59</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:59</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e669de4bbe3562075f7/1466461799582/DSC_0091.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e669de4bbe3562075f7/1466461799582/DSC_0091.jpg</link>
+      <title>attachment-57686e669de4bbe3562075f7</title>
+      <wp:post_name>DSC-0091-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>48</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e669de4bbe3562075f7]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e669de4bbe3562075f7]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:58 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:58</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:58</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e666a4963a2b8c90b52/1466461799435/DSC_0090.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e666a4963a2b8c90b52/1466461799435/DSC_0090.jpg</link>
+      <title>attachment-57686e666a4963a2b8c90b52</title>
+      <wp:post_name>DSC-0090-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>49</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e666a4963a2b8c90b52]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e666a4963a2b8c90b52]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:58 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:58</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:58</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e659de4bbe3562075f3/1466461798901/DSC_0089.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e659de4bbe3562075f3/1466461798901/DSC_0089.jpg</link>
+      <title>attachment-57686e659de4bbe3562075f3</title>
+      <wp:post_name>DSC-0089-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>50</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e659de4bbe3562075f3]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e659de4bbe3562075f3]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:57 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:57</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:57</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e651b631bb40e9c340e/1466461798755/DSC_0088.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e651b631bb40e9c340e/1466461798755/DSC_0088.jpg</link>
+      <title>attachment-57686e651b631bb40e9c340e</title>
+      <wp:post_name>DSC-0088-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>51</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e651b631bb40e9c340e]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e651b631bb40e9c340e]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:57 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:57</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:57</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e659de4bbe3562075eb/1466461797978/DSC_0087.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e659de4bbe3562075eb/1466461797978/DSC_0087.jpg</link>
+      <title>attachment-57686e659de4bbe3562075eb</title>
+      <wp:post_name>DSC-0087-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>52</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e659de4bbe3562075eb]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e659de4bbe3562075eb]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:57 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:57</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:57</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e646a4963a2b8c90b4d/1466461797626/DSC_0086.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e646a4963a2b8c90b4d/1466461797626/DSC_0086.jpg</link>
+      <title>attachment-57686e646a4963a2b8c90b4d</title>
+      <wp:post_name>DSC-0086-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>53</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e646a4963a2b8c90b4d]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e646a4963a2b8c90b4d]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:56 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:56</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:56</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e639de4bbe3562075cd/1466461797530/DSC_0085.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e639de4bbe3562075cd/1466461797530/DSC_0085.jpg</link>
+      <title>attachment-57686e639de4bbe3562075cd</title>
+      <wp:post_name>DSC-0085-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>54</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e639de4bbe3562075cd]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e639de4bbe3562075cd]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:55 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:55</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:55</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e636a4963a2b8c90b48/1466461796763/DSC_0084.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e636a4963a2b8c90b48/1466461796763/DSC_0084.jpg</link>
+      <title>attachment-57686e636a4963a2b8c90b48</title>
+      <wp:post_name>DSC-0084-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>55</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e636a4963a2b8c90b48]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e636a4963a2b8c90b48]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:55 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:55</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:55</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e636a4963a2b8c90b43/1466461795904/DSC_0083.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e636a4963a2b8c90b43/1466461795904/DSC_0083.jpg</link>
+      <title>attachment-57686e636a4963a2b8c90b43</title>
+      <wp:post_name>DSC-0083-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>56</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e636a4963a2b8c90b43]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e636a4963a2b8c90b43]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:55 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:55</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:55</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e626a4963a2b8c90b32/1466461795397/DSC_0082.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e626a4963a2b8c90b32/1466461795397/DSC_0082.jpg</link>
+      <title>attachment-57686e626a4963a2b8c90b32</title>
+      <wp:post_name>DSC-0082-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>57</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e626a4963a2b8c90b32]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e626a4963a2b8c90b32]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:54 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:54</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:54</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e616a4963a2b8c90b2d/1466461794640/DSC_0081_01.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e616a4963a2b8c90b2d/1466461794640/DSC_0081_01.jpg</link>
+      <title>attachment-57686e616a4963a2b8c90b2d</title>
+      <wp:post_name>DSC-0081-01-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>58</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e616a4963a2b8c90b2d]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e616a4963a2b8c90b2d]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:53 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:53</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:53</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e619de4bbe3562075c7/1466461796226/DSC_0080.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e619de4bbe3562075c7/1466461796226/DSC_0080.jpg</link>
+      <title>attachment-57686e619de4bbe3562075c7</title>
+      <wp:post_name>DSC-0080-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>59</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e619de4bbe3562075c7]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e619de4bbe3562075c7]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:53 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:53</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:53</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e466a4963a2b8c90a78/1466461766811/IMG_4124.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e466a4963a2b8c90a78/1466461766811/IMG_4124.jpg</link>
+      <title>attachment-57686e466a4963a2b8c90a78</title>
+      <wp:post_name>IMG-4124-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>60</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e466a4963a2b8c90a78]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e466a4963a2b8c90a78]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:26 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:26</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:26</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e469de4bbe3562074f1/1466461766997/IMG_4123.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e469de4bbe3562074f1/1466461766997/IMG_4123.jpg</link>
+      <title>attachment-57686e469de4bbe3562074f1</title>
+      <wp:post_name>IMG-4123-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>61</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e469de4bbe3562074f1]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e469de4bbe3562074f1]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:26 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:26</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:26</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e456a4963a2b8c90a72/1466461765852/IMG_4122.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e456a4963a2b8c90a72/1466461765852/IMG_4122.jpg</link>
+      <title>attachment-57686e456a4963a2b8c90a72</title>
+      <wp:post_name>IMG-4122-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>62</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e456a4963a2b8c90a72]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e456a4963a2b8c90a72]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:25 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:25</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:25</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e456a4963a2b8c90a6e/1466461765530/IMG_4121.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e456a4963a2b8c90a6e/1466461765530/IMG_4121.jpg</link>
+      <title>attachment-57686e456a4963a2b8c90a6e</title>
+      <wp:post_name>IMG-4121-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>63</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e456a4963a2b8c90a6e]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e456a4963a2b8c90a6e]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:25 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:25</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:25</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e459de4bbe3562074dd/1466461766955/IMG_4120.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e459de4bbe3562074dd/1466461766955/IMG_4120.jpg</link>
+      <title>attachment-57686e459de4bbe3562074dd</title>
+      <wp:post_name>IMG-4120-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>64</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e459de4bbe3562074dd]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e459de4bbe3562074dd]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:25 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:25</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:25</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e446a4963a2b8c90a6b/1466461765052/IMG_4119.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e446a4963a2b8c90a6b/1466461765052/IMG_4119.jpg</link>
+      <title>attachment-57686e446a4963a2b8c90a6b</title>
+      <wp:post_name>IMG-4119-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>65</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e446a4963a2b8c90a6b]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e446a4963a2b8c90a6b]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:24 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:24</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:24</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e446a4963a2b8c90a4d/1466461764667/IMG_4118.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e446a4963a2b8c90a4d/1466461764667/IMG_4118.jpg</link>
+      <title>attachment-57686e446a4963a2b8c90a4d</title>
+      <wp:post_name>IMG-4118-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>66</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e446a4963a2b8c90a4d]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e446a4963a2b8c90a4d]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:24 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:24</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:24</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e436a4963a2b8c90a48/1466461764224/IMG_4115.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e436a4963a2b8c90a48/1466461764224/IMG_4115.jpg</link>
+      <title>attachment-57686e436a4963a2b8c90a48</title>
+      <wp:post_name>IMG-4115-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>67</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e436a4963a2b8c90a48]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e436a4963a2b8c90a48]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:23 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:23</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:23</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e436a4963a2b8c90a40/1466461763928/IMG_4114.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e436a4963a2b8c90a40/1466461763928/IMG_4114.jpg</link>
+      <title>attachment-57686e436a4963a2b8c90a40</title>
+      <wp:post_name>IMG-4114-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>68</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e436a4963a2b8c90a40]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e436a4963a2b8c90a40]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:23 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:23</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:23</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e439de4bbe3562074da/1466461765062/IMG_4113.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e439de4bbe3562074da/1466461765062/IMG_4113.jpg</link>
+      <title>attachment-57686e439de4bbe3562074da</title>
+      <wp:post_name>IMG-4113-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>69</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e439de4bbe3562074da]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e439de4bbe3562074da]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:23 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:23</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:23</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e426a4963a2b8c90a37/1466461763665/IMG_4111.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e426a4963a2b8c90a37/1466461763665/IMG_4111.jpg</link>
+      <title>attachment-57686e426a4963a2b8c90a37</title>
+      <wp:post_name>IMG-4111-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>70</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e426a4963a2b8c90a37]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e426a4963a2b8c90a37]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:22 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:22</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:22</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e421b631bb40e9c3321/1466461763318/IMG_4112.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/57686e13725e25d6e06bf998/57686e421b631bb40e9c3321/1466461763318/IMG_4112.jpg</link>
+      <title>attachment-57686e421b631bb40e9c3321</title>
+      <wp:post_name>IMG-4112-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>71</wp:post_id>
+      <wp:post_parent>7</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57686e421b631bb40e9c3321]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57686e421b631bb40e9c3321]]></excerpt:encoded>
+      <pubDate>Mon, 20 Jun 2016 22:29:22 +0000</pubDate>
+      <wp:post_date>2016-06-20 22:29:22</wp:post_date>
+      <wp:post_date_gmt>2016-06-20 22:29:22</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <link>/about/</link>
+      <title>About</title>
+      <pubDate>Wed, 24 Aug 2016 09:11:55 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 class="text-align-center">About</h1><h1>"Bon dia" from the Garrotxa..</h1><p>It's about time this little-known corner of paradise made itself known to the English-speaking world. All the information here is gleaned from Catalan original sources and my own experience. The questionable photography is my own, the deplorably limited church architectural vocabulary also, but the intention is good! And the devil take the hindmost!</p><p>This website is under construction so lots more to come but i should just make it clear that i am not interested in allocating exact municipalities to the areas explored, as they are not helpful when physically exploring the area. If the Tourist Offices of the area were interested in making this information available in English, i would be obliged to mention all and every locality in the interests of political fairness, but as i am a free agent i do not have this constraint. If it is not of interest (to me), i leave it out. I hope it is of use and leads to much enjoyment.&nbsp;</p><p><span style="font-size:15px">©</span><span style="font-size:15px">&nbsp;Liza Simpson Brown and thegarrotxa.com 2016. </span></p><p><span style="font-size:15px">Unauthorized use and/or duplication of this material without express and written permission from this site’s author and owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Liza Simpson Brown and thegarrotxa.com with appropriate and specific direction to the original content. </span></p><p><span style="font-size:15px">Please contact <a href="http://www.gironalet.com">lizamaneli@gmail.com</a></span></p>]]></content:encoded>
+      <wp:post_name>about</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>72</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <title>sant feliu de riu</title>
+      <link>/sant-feliu-de-riu/</link>
+      <pubDate>Tue, 25 Oct 2016 09:26:58 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab8b0f7e0abfcb30c664a/1466611888826/DSC_0082.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab8aaf7e0abfcb30c6622/1466611883155/DSC_0086.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab8a4f7e0abfcb30c65e4/1466611878180/DSC_0088.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab898f7e0abfcb30c6548/1466611865081/DSC_0093.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab895f7e0abfcb30c6520/1466611862340/DSC_0094.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab890f7e0abfcb30c64ed/1466611857279/DSC_0096.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab88af7e0abfcb30c6489/1466611850699/DSC_0102.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab862f7e0abfcb30c6296/1466611811188/DSC_0116.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab853f7e0abfcb30c61d8/1466611796564/DSC_0117.jpg" /></div>]]></content:encoded>
+      <wp:post_name>sant-feliu-de-riu</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>73</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab8b0f7e0abfcb30c664a/1466611888826/DSC_0082.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab8b0f7e0abfcb30c664a/1466611888826/DSC_0082.jpg</link>
+      <title>attachment-576ab8b0f7e0abfcb30c664a</title>
+      <wp:post_name>DSC-0082-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>74</wp:post_id>
+      <wp:post_parent>73</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-576ab8b0f7e0abfcb30c664a]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-576ab8b0f7e0abfcb30c664a]]></excerpt:encoded>
+      <pubDate>Wed, 22 Jun 2016 16:11:28 +0000</pubDate>
+      <wp:post_date>2016-06-22 16:11:28</wp:post_date>
+      <wp:post_date_gmt>2016-06-22 16:11:28</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab8aaf7e0abfcb30c6622/1466611883155/DSC_0086.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab8aaf7e0abfcb30c6622/1466611883155/DSC_0086.jpg</link>
+      <title>attachment-576ab8aaf7e0abfcb30c6622</title>
+      <wp:post_name>DSC-0086-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>75</wp:post_id>
+      <wp:post_parent>73</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-576ab8aaf7e0abfcb30c6622]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-576ab8aaf7e0abfcb30c6622]]></excerpt:encoded>
+      <pubDate>Wed, 22 Jun 2016 16:11:22 +0000</pubDate>
+      <wp:post_date>2016-06-22 16:11:22</wp:post_date>
+      <wp:post_date_gmt>2016-06-22 16:11:22</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab8a4f7e0abfcb30c65e4/1466611878180/DSC_0088.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab8a4f7e0abfcb30c65e4/1466611878180/DSC_0088.jpg</link>
+      <title>attachment-576ab8a4f7e0abfcb30c65e4</title>
+      <wp:post_name>DSC-0088-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>76</wp:post_id>
+      <wp:post_parent>73</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-576ab8a4f7e0abfcb30c65e4]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-576ab8a4f7e0abfcb30c65e4]]></excerpt:encoded>
+      <pubDate>Wed, 22 Jun 2016 16:11:16 +0000</pubDate>
+      <wp:post_date>2016-06-22 16:11:16</wp:post_date>
+      <wp:post_date_gmt>2016-06-22 16:11:16</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab898f7e0abfcb30c6548/1466611865081/DSC_0093.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab898f7e0abfcb30c6548/1466611865081/DSC_0093.jpg</link>
+      <title>attachment-576ab898f7e0abfcb30c6548</title>
+      <wp:post_name>DSC-0093-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>77</wp:post_id>
+      <wp:post_parent>73</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-576ab898f7e0abfcb30c6548]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-576ab898f7e0abfcb30c6548]]></excerpt:encoded>
+      <pubDate>Wed, 22 Jun 2016 16:11:04 +0000</pubDate>
+      <wp:post_date>2016-06-22 16:11:04</wp:post_date>
+      <wp:post_date_gmt>2016-06-22 16:11:04</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab895f7e0abfcb30c6520/1466611862340/DSC_0094.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab895f7e0abfcb30c6520/1466611862340/DSC_0094.jpg</link>
+      <title>attachment-576ab895f7e0abfcb30c6520</title>
+      <wp:post_name>DSC-0094-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>78</wp:post_id>
+      <wp:post_parent>73</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-576ab895f7e0abfcb30c6520]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-576ab895f7e0abfcb30c6520]]></excerpt:encoded>
+      <pubDate>Wed, 22 Jun 2016 16:11:01 +0000</pubDate>
+      <wp:post_date>2016-06-22 16:11:01</wp:post_date>
+      <wp:post_date_gmt>2016-06-22 16:11:01</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab890f7e0abfcb30c64ed/1466611857279/DSC_0096.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab890f7e0abfcb30c64ed/1466611857279/DSC_0096.jpg</link>
+      <title>attachment-576ab890f7e0abfcb30c64ed</title>
+      <wp:post_name>DSC-0096-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>79</wp:post_id>
+      <wp:post_parent>73</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-576ab890f7e0abfcb30c64ed]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-576ab890f7e0abfcb30c64ed]]></excerpt:encoded>
+      <pubDate>Wed, 22 Jun 2016 16:10:56 +0000</pubDate>
+      <wp:post_date>2016-06-22 16:10:56</wp:post_date>
+      <wp:post_date_gmt>2016-06-22 16:10:56</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab88af7e0abfcb30c6489/1466611850699/DSC_0102.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab88af7e0abfcb30c6489/1466611850699/DSC_0102.jpg</link>
+      <title>attachment-576ab88af7e0abfcb30c6489</title>
+      <wp:post_name>DSC-0102-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>80</wp:post_id>
+      <wp:post_parent>73</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-576ab88af7e0abfcb30c6489]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-576ab88af7e0abfcb30c6489]]></excerpt:encoded>
+      <pubDate>Wed, 22 Jun 2016 16:10:50 +0000</pubDate>
+      <wp:post_date>2016-06-22 16:10:50</wp:post_date>
+      <wp:post_date_gmt>2016-06-22 16:10:50</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab862f7e0abfcb30c6296/1466611811188/DSC_0116.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab862f7e0abfcb30c6296/1466611811188/DSC_0116.jpg</link>
+      <title>attachment-576ab862f7e0abfcb30c6296</title>
+      <wp:post_name>DSC-0116-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>81</wp:post_id>
+      <wp:post_parent>73</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-576ab862f7e0abfcb30c6296]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-576ab862f7e0abfcb30c6296]]></excerpt:encoded>
+      <pubDate>Wed, 22 Jun 2016 16:10:10 +0000</pubDate>
+      <wp:post_date>2016-06-22 16:10:10</wp:post_date>
+      <wp:post_date_gmt>2016-06-22 16:10:10</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab853f7e0abfcb30c61d8/1466611796564/DSC_0117.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576ab83159cc680fef8e5275/576ab853f7e0abfcb30c61d8/1466611796564/DSC_0117.jpg</link>
+      <title>attachment-576ab853f7e0abfcb30c61d8</title>
+      <wp:post_name>DSC-0117-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>82</wp:post_id>
+      <wp:post_parent>73</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-576ab853f7e0abfcb30c61d8]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-576ab853f7e0abfcb30c61d8]]></excerpt:encoded>
+      <pubDate>Wed, 22 Jun 2016 16:09:55 +0000</pubDate>
+      <wp:post_date>2016-06-22 16:09:55</wp:post_date>
+      <wp:post_date_gmt>2016-06-22 16:09:55</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <title>mare de deu de les agulles</title>
+      <link>/new-gallery-12/</link>
+      <pubDate>Tue, 25 Oct 2016 09:27:24 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af9b1d1758ee67ec2aa64/1466628530815/DSC_0060.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af9a729687f1fd26b41b8/1466628579800/DSC_0056.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af99b29687f1fd26b4120/1466628510514/DSC_0049.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af995d1758ee67ec2a90a/1466628502687/DSC_0046.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af98fd1758ee67ec2a8a9/1466628579252/DSC_0047.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af98cd1758ee67ec2a898/1466628493790/DSC_0045.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af987d1758ee67ec2a85b/1466628488577/DSC_0043.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af979e3df286cce598ec7/1466628474673/DSC_0038.jpg" /><img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af976d1758ee67ec2a77c/1466628471347/DSC_0037.jpg" /></div>]]></content:encoded>
+      <wp:post_name>new-gallery-12</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>83</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af9b1d1758ee67ec2aa64/1466628530815/DSC_0060.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af9b1d1758ee67ec2aa64/1466628530815/DSC_0060.jpg</link>
+      <title>attachment-576af9b1d1758ee67ec2aa64</title>
+      <wp:post_name>DSC-0060-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>84</wp:post_id>
+      <wp:post_parent>83</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-576af9b1d1758ee67ec2aa64]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-576af9b1d1758ee67ec2aa64]]></excerpt:encoded>
+      <pubDate>Wed, 22 Jun 2016 20:48:49 +0000</pubDate>
+      <wp:post_date>2016-06-22 20:48:49</wp:post_date>
+      <wp:post_date_gmt>2016-06-22 20:48:49</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af9a729687f1fd26b41b8/1466628579800/DSC_0056.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af9a729687f1fd26b41b8/1466628579800/DSC_0056.jpg</link>
+      <title>attachment-576af9a729687f1fd26b41b8</title>
+      <wp:post_name>DSC-0056-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>85</wp:post_id>
+      <wp:post_parent>83</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-576af9a729687f1fd26b41b8]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-576af9a729687f1fd26b41b8]]></excerpt:encoded>
+      <pubDate>Wed, 22 Jun 2016 20:48:39 +0000</pubDate>
+      <wp:post_date>2016-06-22 20:48:39</wp:post_date>
+      <wp:post_date_gmt>2016-06-22 20:48:39</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af99b29687f1fd26b4120/1466628510514/DSC_0049.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af99b29687f1fd26b4120/1466628510514/DSC_0049.jpg</link>
+      <title>attachment-576af99b29687f1fd26b4120</title>
+      <wp:post_name>DSC-0049-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>86</wp:post_id>
+      <wp:post_parent>83</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-576af99b29687f1fd26b4120]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-576af99b29687f1fd26b4120]]></excerpt:encoded>
+      <pubDate>Wed, 22 Jun 2016 20:48:27 +0000</pubDate>
+      <wp:post_date>2016-06-22 20:48:27</wp:post_date>
+      <wp:post_date_gmt>2016-06-22 20:48:27</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af995d1758ee67ec2a90a/1466628502687/DSC_0046.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af995d1758ee67ec2a90a/1466628502687/DSC_0046.jpg</link>
+      <title>attachment-576af995d1758ee67ec2a90a</title>
+      <wp:post_name>DSC-0046-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>87</wp:post_id>
+      <wp:post_parent>83</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-576af995d1758ee67ec2a90a]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-576af995d1758ee67ec2a90a]]></excerpt:encoded>
+      <pubDate>Wed, 22 Jun 2016 20:48:21 +0000</pubDate>
+      <wp:post_date>2016-06-22 20:48:21</wp:post_date>
+      <wp:post_date_gmt>2016-06-22 20:48:21</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af98fd1758ee67ec2a8a9/1466628579252/DSC_0047.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af98fd1758ee67ec2a8a9/1466628579252/DSC_0047.jpg</link>
+      <title>attachment-576af98fd1758ee67ec2a8a9</title>
+      <wp:post_name>DSC-0047-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>88</wp:post_id>
+      <wp:post_parent>83</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-576af98fd1758ee67ec2a8a9]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-576af98fd1758ee67ec2a8a9]]></excerpt:encoded>
+      <pubDate>Wed, 22 Jun 2016 20:48:15 +0000</pubDate>
+      <wp:post_date>2016-06-22 20:48:15</wp:post_date>
+      <wp:post_date_gmt>2016-06-22 20:48:15</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af98cd1758ee67ec2a898/1466628493790/DSC_0045.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af98cd1758ee67ec2a898/1466628493790/DSC_0045.jpg</link>
+      <title>attachment-576af98cd1758ee67ec2a898</title>
+      <wp:post_name>DSC-0045-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>89</wp:post_id>
+      <wp:post_parent>83</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-576af98cd1758ee67ec2a898]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-576af98cd1758ee67ec2a898]]></excerpt:encoded>
+      <pubDate>Wed, 22 Jun 2016 20:48:12 +0000</pubDate>
+      <wp:post_date>2016-06-22 20:48:12</wp:post_date>
+      <wp:post_date_gmt>2016-06-22 20:48:12</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af987d1758ee67ec2a85b/1466628488577/DSC_0043.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af987d1758ee67ec2a85b/1466628488577/DSC_0043.jpg</link>
+      <title>attachment-576af987d1758ee67ec2a85b</title>
+      <wp:post_name>DSC-0043-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>90</wp:post_id>
+      <wp:post_parent>83</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-576af987d1758ee67ec2a85b]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-576af987d1758ee67ec2a85b]]></excerpt:encoded>
+      <pubDate>Wed, 22 Jun 2016 20:48:07 +0000</pubDate>
+      <wp:post_date>2016-06-22 20:48:07</wp:post_date>
+      <wp:post_date_gmt>2016-06-22 20:48:07</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af979e3df286cce598ec7/1466628474673/DSC_0038.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af979e3df286cce598ec7/1466628474673/DSC_0038.jpg</link>
+      <title>attachment-576af979e3df286cce598ec7</title>
+      <wp:post_name>DSC-0038-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>91</wp:post_id>
+      <wp:post_parent>83</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-576af979e3df286cce598ec7]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-576af979e3df286cce598ec7]]></excerpt:encoded>
+      <pubDate>Wed, 22 Jun 2016 20:47:53 +0000</pubDate>
+      <wp:post_date>2016-06-22 20:47:53</wp:post_date>
+      <wp:post_date_gmt>2016-06-22 20:47:53</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af976d1758ee67ec2a77c/1466628471347/DSC_0037.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/576af90559cc68e22a2600e2/576af976d1758ee67ec2a77c/1466628471347/DSC_0037.jpg</link>
+      <title>attachment-576af976d1758ee67ec2a77c</title>
+      <wp:post_name>DSC-0037-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>92</wp:post_id>
+      <wp:post_parent>83</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-576af976d1758ee67ec2a77c]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-576af976d1758ee67ec2a77c]]></excerpt:encoded>
+      <pubDate>Wed, 22 Jun 2016 20:47:50 +0000</pubDate>
+      <wp:post_date>2016-06-22 20:47:50</wp:post_date>
+      <wp:post_date_gmt>2016-06-22 20:47:50</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <link>/new-page-1/</link>
+      <title>copyright</title>
+      <pubDate>Sun, 24 Jul 2016 18:21:14 +0000</pubDate>
+      <content:encoded><![CDATA[<p><span style="font-size:15px">©</span><span style="font-size:15px">&nbsp;Liza Simpson Brown and TheGarrotxa.com, 2016. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Liza Simpson Brown and TheGarrotxa.com with appropriate and specific direction to the original content.</span></p>]]></content:encoded>
+      <wp:post_name>new-page-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>93</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <title>Volcanoes &amp; Voodoo</title>
+      <link>/new-blog-2/2016/9/27/volcanoes-1</link>
+      <content:encoded><![CDATA[<p>700,000 years ago, the first volcanic eruptions of the area occured on the Batet Plain, followed 350,000 years later by the lava flows eventually cooling to form the basalt cliffs of Castellfollit de la Roca. Only 17,000 years ago, the volcanic rock under the Bosc de Tosca (Tosca Wood) was laid down when the mix of gas and water caused the strange rock formations which the lowest-lying beechwood in Europe so much appreciates (dry feet, damp head). An even more recent eruption from the Croscat volcano occured around 9,500 BC.</p><p>There are over 40 volcanoes in the region, the vast majority of them centred around Olot and the Garrotxa. Car stickers from Olot proclaim 'Visc entre Volcans' (I live among volcanoes) instead of &nbsp;'my other car is a porsche' or 'worry about your eyebrows, not my parking'.</p><p>It is no coincidence that Santa Margarida Volcano is protected by Margarida in the crater itself and from a short distance, Sant Miquel (de Sacot). Both these saints protect against dragons and fire-breathing 'drac'&nbsp;mountains. Even Sant Francesc, who protects Montsacopa Volcano in the middle of Olot, is not devoid of dragon association, but it was still felt necessary in 1888, to establish the Via Crucis oratories up its flank, commencing near the cemetery at its foot.</p>
+  
+      <img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/577042f3d2b857e357876c8c/57ea9cd52e69cfdc14ba00e7/1474993372399//img.jpg" alt=""/>
+  
+
+<p>These volcano things are also thought to affect the character and habits of the inhabitants. Just as the fog in Vic makes everyone depressed, and the wind of the Empordà makes the rest mad, so the volcanoes of Olot keep their population insular and odd.&nbsp;</p><p><strong>Healers</strong><br>Ideas of geomancy, witchcraft, influences of the moon for planting and the still popular practice of going to see the 'guaridor' (healer or 'curandero') is common currency in Olot. Healers existed where there were few doctors, or they were not affordable and rural areas held on to their knowledge of natural medicines and treatments. People still go to healers, as before, for minor ailments or for cases where they have been told there is no hope. In Olot, superstition mixes with religious belief in the older generations. Sant Cosme and Damià were saintly healers</p>
+<p>The 'laying on of hands' continues despite the passing in 2012, of one of the most popular healers in Olot. He was called 'Caseca', the name of the house in la Pinya (Olot) where he spent his childhood. Melcior Galobardes mostly treated muscle and bone problems, opening his house in the Sant Roc neighbourhood of Olot, early in the morning, to those who came, without appointment, and left, having paid 'la voluntad' or what they thought the visit was worth. Josep Martí i Pérez parallels this concept of reciprocity with the ex-voto (an offering made as a guarantee of a vow made to a saint).<br>(some information taken from an article in El Punt Avui newspaper, 04/01/2012, Curandero d'Olot)</p>
+<p>Key to the continued success of healers is the fact that it is not 'mal<br>vist' (thought badly of, looked down on). Patients are not restricted to one social class or level of intelligence and it is not ridiculed in conversation. Rather it is seen as an 'alternative medicine', like homiopathy, also very popular, as a maintaining of traditions and keeping alive of the 'old ways'. Perhaps the real gift of these people though, is that of listening.</p>
+
+  
+       [caption id="" align="alignnone" width="1100.0"]<img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/577042f3d2b857e357876c8c/57ea97d03e00beba48e5da0c/1474992154773//img.jpg" alt=" The interpretation of geomantic charts could be the missing piece in the mystery of the powers of the healer?!&nbsp; "/>  The interpretation of geomantic charts could be the missing piece in the mystery of the powers of the healer?!&nbsp; [/caption] 
+  
+
+
+  
+       [caption id="" align="alignnone" width="640.0"]<img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/577042f3d2b857e357876c8c/57ea9f1c29687f7b395886ed/1474993952907//img.jpg" alt=" 'Sant Francesc' or Montsacopa Volcano crater, in the centre of Olot, decorated for the 'Lluèrnia' or 'festival of fire and light' (that's what i'm  talking  about!).&nbsp; "/>  'Sant Francesc' or Montsacopa Volcano crater, in the centre of Olot, decorated for the 'Lluèrnia' or 'festival of fire and light' (that's what i'm  talking  about!).&nbsp; [/caption] 
+  
+
+<p>The Devil's Stone or menhir near Santa Pau is exactly 6 miles from Olot and 6 miles from Besalù. Not kilometers, miles. It is also part of a sacred arrangement between Sant Miquel del Corb, Sant Viçenc del Sallent, &nbsp;Sant Martí de Campmajor....! (just saying)</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2016/9/27/volcanoes-1</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>94</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Tue, 27 Sep 2016 13:41:55 +0000</pubDate>
+      <wp:post_date>2016-09-27 13:41:55</wp:post_date>
+      <wp:post_date_gmt>2016-09-27 13:41:55</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[98]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/577042f3d2b857e357876c8c/57ea9f1c29687f7b395886ed/1474993952907//img.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/577042f3d2b857e357876c8c/57ea9f1c29687f7b395886ed/1474993952907//img.jpg</link>
+      <title>attachment-57ea9f1c29687f7b395886ed</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>95</wp:post_id>
+      <wp:post_parent>94</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57ea9f1c29687f7b395886ed]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57ea9f1c29687f7b395886ed]]></excerpt:encoded>
+      <pubDate>Tue, 27 Sep 2016 16:32:28 +0000</pubDate>
+      <wp:post_date>2016-09-27 16:32:28</wp:post_date>
+      <wp:post_date_gmt>2016-09-27 16:32:28</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/577042f3d2b857e357876c8c/57ea97d03e00beba48e5da0c/1474992154773//img.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/577042f3d2b857e357876c8c/57ea97d03e00beba48e5da0c/1474992154773//img.jpg</link>
+      <title>attachment-57ea97d03e00beba48e5da0c</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>96</wp:post_id>
+      <wp:post_parent>94</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57ea97d03e00beba48e5da0c]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57ea97d03e00beba48e5da0c]]></excerpt:encoded>
+      <pubDate>Tue, 27 Sep 2016 16:01:20 +0000</pubDate>
+      <wp:post_date>2016-09-27 16:01:20</wp:post_date>
+      <wp:post_date_gmt>2016-09-27 16:01:20</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/577042f3d2b857e357876c8c/57ea9cd52e69cfdc14ba00e7/1474993372399//img.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/577042f3d2b857e357876c8c/57ea9cd52e69cfdc14ba00e7/1474993372399//img.jpg</link>
+      <title>attachment-57ea9cd52e69cfdc14ba00e7</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>97</wp:post_id>
+      <wp:post_parent>94</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57ea9cd52e69cfdc14ba00e7]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57ea9cd52e69cfdc14ba00e7]]></excerpt:encoded>
+      <pubDate>Tue, 27 Sep 2016 16:22:45 +0000</pubDate>
+      <wp:post_date>2016-09-27 16:22:45</wp:post_date>
+      <wp:post_date_gmt>2016-09-27 16:22:45</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/577042f3d2b857e357876c8c/57ea6975b8a79b3a3361e800/1474994323422/DSC_0014.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/577042f3d2b857e357876c8c/57ea6975b8a79b3a3361e800/1474994323422/DSC_0014.jpg</link>
+      <title>attachment-57ea6975b8a79b3a3361e800</title>
+      <wp:post_name>DSC-0014-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>98</wp:post_id>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57ea6975b8a79b3a3361e800]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57ea6975b8a79b3a3361e800]]></excerpt:encoded>
+      <pubDate>Tue, 27 Sep 2016 13:41:55 +0000</pubDate>
+      <wp:post_date>2016-09-27 13:41:55</wp:post_date>
+      <wp:post_date_gmt>2016-09-27 13:41:55</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <title>Earthquakes &amp; Effulgence</title>
+      <link>/new-blog-2/2016/9/27/earthquakes</link>
+      <content:encoded><![CDATA[<p>In 1427 and 1428 a series of devastating earthquakes destroyed most of the villages and hamlets around Olot. The first quake was on the Ides of March 1427 with it's epicentre in the Vall d'Hostoles, followed on the 15th May by a much stronger one centred on Olot. The most destructive tremor occurred on the 2nd February of the following year and is reputed to have been felt as far away as Bordeaux. This one was actually centred more around &nbsp;Puigcerdà. The 2nd February is 'dia de la Candelera' so most Olotins were out, at the Puig del Roser for candle blessing and no-one was killed.</p><p><strong>La Candelera</strong><br>40 days after the birth of Jesus, his mother presented him to the temple in Jerusalem and went herself to be purified, a Jewish obligation which involved blessing candles. It has marked the end of Christmas ever since, with the dismantling of the 'pessebre' or nativity scene, still to be seen in most Catalan households and elevated to an art form in many cases. Perhaps Candlemas evolved from the Roman Parentalia festival when ancestors and dead relatives' tombs were visited and candle-lit processions to the cemeteries helped to guide the souls of the dead.</p>
+<blockquote>
+<p>"Si la Candelera plora, l'hivern és fora; si la Candelera riu, el fred és viu"</p>
+</blockquote>
+<p>Interestingly, it is also the day for weather forecasting! According to whether it rains on the day or not, Spring has sprung or you have to wait a bit, but also it seems that around this time is when the bears of the Pyrenees come out of hibernation, check the moon, and if it isn't new, they go back to bed for another 40 days. This idea has led to a common festival in the Pyrenees called the Ball de l'Ós or Dance of the Bear.</p>
+<blockquote>
+<p>"Per la Candelera, l'ós surt de l'ossera"</p>
+</blockquote>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2016/9/27/earthquakes</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>99</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Tue, 27 Sep 2016 12:45:32 +0000</pubDate>
+      <wp:post_date>2016-09-27 12:45:32</wp:post_date>
+      <wp:post_date_gmt>2016-09-27 12:45:32</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>Introduction &amp; Map</title>
+      <link>/new-blog-2/2016/8/24/map</link>
+      <content:encoded><![CDATA[<p><strong>Method of Attack</strong></p><p>The walks and more especially the cycles, don't always 'stop at the border'&nbsp;of a municipality but here you have them, to orientate yourselves and for the record.&nbsp;The list of churches does not always correspond to municipality. Churches are grouped according to convenience of location for walking or driving and not local municipal boundaries. The chapter headings are also for general guidance. Some churches from other municipalities may be included in a chapter because of their geographical situation and ease of access.</p><p>This guide aims to show that the Garrotxa is a destination in itself, worthy of time and attention. The Romanesque is merely a means of accessing some of the joyful secrets the Garrotxa possesses.&nbsp;It's a theme like any other - castles are not as rewarding in this area and churches can be difficult to savour to their full without context.&nbsp;</p><p>All the main Romanesque churches of the area are included, with directions and how to see inside, if at all possible.&nbsp;It is a beautiful area and a little help to enter into the hidden parts aids appreciation.&nbsp;The idea is that you can enjoy the Romanesque along side the other available attractions of the area. You can see at a glance the churches to visit, but also what else is nearby for the rest of the family.&nbsp;</p><p>I am not claiming to be an expert in art history or architecture but i have put together information available in Catalan and Castilian from a variety of sources, ancient and new.&nbsp;Information about the Garrotxa is freely available in Catalan and Spanish, &nbsp;though until recently,&nbsp;information for non-Catalan speakers has not been so easily accessible.</p>
+  
+       [caption id="" align="alignnone" width="1742.0"]<img src="http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/577042f3d2b857e357876c8c/57bef28ae4fcb5978b172941/1472131754537//img.jpg" alt=" The Garrotxa 21 municipalities "/>  The Garrotxa 21 municipalities [/caption] 
+  
+
+<p>1. Vall de Bianya 2. Montagut i Oix 3. Sales de Llierca 4. Beuda 5. Maia de Montcal 6. Besalú 7. Tortellà 8. Castellfollit de la Roca 9. Sant Jaume de Llierca 10. Argelaguer 11. Riudaura 12. Olot 13. Sant Joan les Fonts 14. Sant Ferriol 15. Les Preses 16. Vall d'en Bas 17. Santa Pau 18. Mieres 19. Sant Feliu de Pallerols 20. Les Planes d'Hostoles 21. Sant Aniol de Finestres &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;</p><p><strong>The Churches</strong></p><p>The Romanesque churches are scattered all over and used to be open to all. Now they are mostly closed because of theft and it is difficult to keep them open for visitors given the distances between them.</p><p>Earthquakes in 1427 and 1428 totally destroyed almost all of the Romanesque in Olot. Churches in the rest of the Garrotxa lost their vaults and suffered more or less damage but were restored within a time frame which rebuilt in the same style. The vaults were usually rebuilt pointed, however, which was the new Gothic style which arrived very late to this part of Catalonia.</p><p><strong>The Walks</strong></p><p>If it ain't hot, it's warm and sunny, not ideal from a Northern-skinned point of view when faced with the typical suggestion of a 6 or 7 hour walk. These are short walks, with or without the family, which can easily be extended. If you prefer to tackle 3 volcanoes in one morning, you don't need me. If you would like to know where to start to explore each one individually,what to see en route and where to have lunch,&nbsp;i'm yer gal.&nbsp;</p><p><strong>The Cycles</strong></p><p>Taking Olot as a starting point, you can cycle in any direction to encounter a beautiful mountain climb and a gorgeous route. Cycle north and west to Capsacosta or Coll de Coubet and respective routes, cycle south west to Vall d'en Bas and the Collsacabra plateau above, cycle south east to Santa Pau and Banyoles with its' lake.&nbsp;</p><p>Clearly, you can add or subtract stretches of road, depending on how far you want to go and time available. The mix and match versatility of the area is one of its' main attractions, another being the sheer beauty of the region. The new road has been a boon to cyclists, leaving all the old roads to meander from village to village without traffic for hours on end. These routes are regular favourites for the pro-cyclists based in Girona, of which there are now many.</p><p><strong>The Rest &amp; Recuperation</strong></p><p>The other stuff worth visiting or doing in the area, nothing to do with Romanesque, but nearby, and light relief for the rest of the family perhaps! Here you can find accommodation and restaurants but also museums and quirky local stuff, swimming pools, picnic areas and market days.</p><p><strong>The Recipes</strong></p><p>No reason really, i just like recipes, but you have to admit they are an interesting slant on the culture.<br /> </p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2016/8/24/map</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>100</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Thu, 23 Jun 2016 15:43:00 +0000</pubDate>
+      <wp:post_date>2016-06-23 15:43:00</wp:post_date>
+      <wp:post_date_gmt>2016-06-23 15:43:00</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[102]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/577042f3d2b857e357876c8c/57bef28ae4fcb5978b172941/1472131754537//img.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/577042f3d2b857e357876c8c/57bef28ae4fcb5978b172941/1472131754537//img.jpg</link>
+      <title>attachment-57bef28ae4fcb5978b172941</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>101</wp:post_id>
+      <wp:post_parent>100</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57bef28ae4fcb5978b172941]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57bef28ae4fcb5978b172941]]></excerpt:encoded>
+      <pubDate>Thu, 25 Aug 2016 13:28:42 +0000</pubDate>
+      <wp:post_date>2016-08-25 13:28:42</wp:post_date>
+      <wp:post_date_gmt>2016-08-25 13:28:42</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/577042f3d2b857e357876c8c/57bdd7bf5016e1f481194e83/1472397158055/Untitled.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/577042f3d2b857e357876c8c/57bdd7bf5016e1f481194e83/1472397158055/Untitled.jpg</link>
+      <title>attachment-57bdd7bf5016e1f481194e83</title>
+      <wp:post_name>Untitled-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>102</wp:post_id>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57bdd7bf5016e1f481194e83]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57bdd7bf5016e1f481194e83]]></excerpt:encoded>
+      <pubDate>Thu, 23 Jun 2016 15:43:00 +0000</pubDate>
+      <wp:post_date>2016-06-23 15:43:00</wp:post_date>
+      <wp:post_date_gmt>2016-06-23 15:43:00</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+    </item>
+    <item>
+      <title>List of Churches</title>
+      <link>/new-blog-2/2016/8/28/wb6styrpw12w1huf5llp4ziork95fo</link>
+      <content:encoded><![CDATA[<p>churches in each chapter<br>churches in correct municipalities<br>churches included/not included</p>
+<pre><code>▪    Sant Andreu de Ruïtlles
+▪    Sant Andreu de Gitarriu
+▪    Església de Sant Andreu de Porreres
+▪    Església de Sant Andreu de Socarrats</code></pre><p>C<br>    ▪    Sant Cristòfol de Cogolls<br>E<br>    ▪    Església de Bellpuig<br>    ▪    Església de Sant Esteve d'en Bas<br>G<br>    ▪    Sant Genís i Sant Miquel de Besalú<br>    ▪    Sant Grau d'Entreperes<br>I<br>    ▪    Sant Iscle de Colltort<br>J<br>    ▪    Sant Joan de la Font<br>    ▪    Monestir de Sant Joan les Fonts<br>    ▪    Sant Julià de Besalú<br>M<br>    ▪    Mare de Déu del Guilar<br>    ▪    Santa Maria de Jonqueres<br>    ▪    Santa Maria de Llongarriu<br>    ▪    Sant Miquel Sacot<br>S<br>    ▪    Sant Feliu de Riu<br>    ▪    Sant Martí de Dosquers<br>    ▪    Sant Martí de Toralles<br>    ▪    Sant Martí del Corb<br>    ▪    Sant Miquel de Castelló<br>    ▪    Sant Miquel de la Torre<br>    ▪    Sant Miquel de Maians<br>    ▪    Sant Miquel de Monteia<br>    ▪    Sant Miquel de Pineda<br>    ▪    Monestir de Sant Pere de Besalú<br>    ▪    Sant Quintí d'en Bas<br>    ▪    Església de Sant Salvador de Bianya<br>    ▪    Sant Salvador de Puig-alder<br>    ▪    Sant Vicenç de Besalú<br>    ▪    Santa Anna d'Argelaguer<br>    ▪    Santa Cecília de Sadernes<br>    ▪    Santa Magdalena de Montpalau<br>    ▪    Santa Magdalena del Coll<br>    ▪    Santa Margarida de Sacot<br>    ▪    Santa Maria d'Argelaguer<br>    ▪    Santa Maria de Batet<br>    ▪    Santa Maria de Castellar de la Muntanya<br>    ▪    Santa Maria de Puigpardines<br>    ▪    Santa Maria del Freixe<br>V<br>    ▪    Sant Vicenç de Maià de Montcal</p>
+<p>Beuda<br>•    Sant Feliu de Beuda<br>    •    Sant Pere de Lligordà<br>    •    Monestir del Sant Sepulcre de Palera<br>    •    Santa Llúcia de Beuda<br>    •    Santa Maria de Palera<br>    •    Santa Maria de Segueró</p>
+<p>Montagut &amp; Oix<br>    •    Església de Nostra Senyora de les Agulles (Montagut i Oix)<br>S<br>    •    Sant Aniol d'Aguja<br>    •    Sant Eudald de Jou<br>    •    Sant Miquel d'Hortmoier<br>    •    Sant Pere de Montagut<br>    •    Santa Bàrbara de Pruneres<br>    •    Santa Maria d'Escales<br>    •    Santuari de la Mare de Déu de la Devesa</p>
+<p>Sant Ferriol<br>    •    Sant Andreu del Torn<br>    •    Sant Fruitós d'Ossinyà<br>    •    Sant Miquel de la Miana<br>    •    Sant Silvestre del Mor<br>    •    Santa Maria de Fares<br>    •    Santa Maria del Collell<br>    •    Santuari de Sant Ferriol</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2016/8/28/wb6styrpw12w1huf5llp4ziork95fo</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>103</wp:post_id>
+      <wp:status>draft</wp:status>
+      <pubDate>Sun, 28 Aug 2016 17:41:10 +0000</pubDate>
+      <wp:post_date>2016-08-28 17:41:10</wp:post_date>
+      <wp:post_date_gmt>2016-08-28 17:41:10</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>Bibliography</title>
+      <link>/new-blog-2/2016/8/28/bibliography</link>
+      <content:encoded><![CDATA[<p>Cristofol &amp; Trepot, A. L'Art Romanic.<br>Solà-Morales, Josep M. de . Construccio, Reconstruccio i Reformes del Pont Romanic de Besalu.<br>Llavors i Arrells de Besalu<br>Lopez, Joan. Besalu.<br>Alanya i Roig. Juderia.<br>Garwood, Peter. Exploring Romanesque Architecture in Catalonia   can’t find it?<br>Esglesies Romaniques. 105 Testimonis Arquitectonics<br>Santuaris Muntanyencs de la Garrotxa<br>Excursions des de la Vall d'en Bas<br>Excursons des de Sant Feliu de Pallerols<br>Rutas y Paseos por la Garrotxa<br>Guies Comarcals Catalunya Romanica - el Ripolles. Portic 1<br>Les Comarques Gironines Viatge al Romanic Catala.  Racc Ediccion 62 no 4<br>Girones, Garrotxa, Pla d'Estany. Portic 6<br>del Campo i Jordà, Ferran. Castells Medievals 37 Castells de la Garrotxa. - Guies del Patrimoni Comarcal, 5<br>Strafford, Peter. Romanesque Churches of Spain. DLM<br>Conant, Kenneth. Carolingian and Romanesque Architecture 800-1200.  Yale,<br>Cannon, Jon. Medieval Church Architecture.<br>Rice, Matthew. Rice’s Church Primer.<br>Como Conocer el Romanico<br>Taylor, Richard. How to Read Churches.<br>Sala i Canadell, Puigdevall, Melció i Pujol. Caminant per l’Alta Garrotxa. (mine)<br>Angulo, Miguel. Pirineus VI.<br>Symbols and Allegories in Art.<br>Farré i Sanpera, Maria Carme. El Museu d’Art de Catalunya.<br>Gombrich. The Story of Art.<br>Stalley, Roger. Early Medieval Architecture. Oxford History of Art<br>Pujol Massaguer, Maria Teresa. Els Nostres Ponts del Diable. -  p41<br>Pi de Cabanyes, Oriol. Castells Habitats de Catalunya. Edicions 62 p79<br>Rutes del Exili.<br>Olot. Itinerari pel Nucli Antic.<br>Les Pedres Parlen. Pels Camins de Beuda.<br>Triadú, Joan. El Collsacabra.<br>Sagrera, . Les Muralles de Besalu.<br>Besalu. Vida i Organitzacio d’una Juderia. </p>
+<p>For an encyclopedia:<br>Edition Date. Volume Number, "Article Title," page numbers.<br>EXAMPLE:<br>The Encyclopedia Britannica, 1997. Volume 7, "Gorillas," pp. 50-51.<br>altea visual dictionary architeture l.a. and j.a. hamey akal<br>romanic iv- garrotxa girona library big encyclopedia </p>
+<p>For a magazine:<br>Author (last name first), "Article Title." Name of magazine. Volume number, (Date): page numbers.<br>EXAMPLE:<br>Jordan, Jennifer, "Filming at the Top of the World." Museum of Science Magazine. Volume 47, No. 1, (Winter 1998): p. 11.<br>Els Monestirs Benedictins a l'Antic Comtat de Besalú- Amics de Besalú Dra. Marta Serrano Coll, Universitat Rovira i Virgili (Tarragona) - La Jerarquia de l'espai en els edificis religiosos benedictins: alguns exemples del comtat de Besalú i els seus votants<br>les garrotxes magazines (mine) done to 15</p>
+<p>les garrotxes magazines - up to15 done 15 included (not 14 and 13 yet)<br>maria de la pinya's romanic magazines (olot library)<br>maria de la pinya’s romanic magazine collection!! - comarca magazines in olot library</p>
+<p>comarca revistes: El romànic de la Garrotxa - edicions El Bassagoda - la comarca d'Olot. Josep Murlà - Joan Teixidor<br>history of catalunya magazines<br>Memòria d'activitats dels amics de l'alta garrotxa 1972-1981 Edicions Bassegoda olot 1981 (sant feliu de riu)<br>Guia botànica i estudi integrat d’itineraris de muntanya  ConsorcideAltaGarrotxa_butlleti_9.pdf<br>magazine Verntallat : Bulletí informatiu de la Germandat Sindical de LLauradors I Ramaders de Vall de Bas (Girona) 1975-2004<br>Carrión i Masgrau, Gerard. Itinerari 6: d’Albanyà a Camprodon</p>
+<p>For a person:<br>Full name (last name first). Occupation. Date of interview.<br>EXAMPLE:<br>Smeckleburg, Sweets. Bus driver. April 1, 1996.</p>
+<p>Magazine article:<br>Author (last name first). "Article title." Name of magazine (type of medium). Volume number, (Date): page numbers. If available: publisher of medium,<br>For an encyclopedia:<br>Encyclopedia Title, Edition Date. Volume Number, "Article Title," page numbers.<br>EXAMPLE:<br>The Encyclopedia Britannica, 1997. Volume 7, "Gorillas," pp. 50-51.<br>altea visual dictionary architeture l.a. and j.a. hamey akal<br>romanic iv- garrotxa girona library big encyclopedia - bianya half done</p>
+<p>For a magazine:<br>Author (last name first), "Article Title." Name of magazine. Volume number, (Date): page numbers.<br>EXAMPLE:<br>Jordan, Jennifer, "Filming at the Top of the World." Museum of Science Magazine. Volume 47, No. 1, (Winter 1998): p. 11.<br>Els Monestirs Benedictins a l'Antic Comtat de Besalú- Amics de Besalú Dra. Marta Serrano Coll, Universitat Rovira i Virgili (Tarragona) - La Jerarquia de l'espai en els edificis religiosos benedictins: alguns exemples del comtat de Besalú i els seus votants<br>les garrotxes magazines (mine) done to 15</p>
+<p>les garrotxes magazines - up to15 done 15 included (not 14 and 13 yet)<br>maria de la pinya's romanic magazines (olot library)<br>maria de la pinya’s romanic magazine collection!! - comarca magazines in olot library</p>
+<p>comarca revistes: El romànic de la Garrotxa - edicions El Bassagoda - la comarca d'Olot. Josep Murlà - Joan Teixidor<br>history of catalunya magazines<br>Memòria d'activitats dels amics de l'alta garrotxa 1972-1981 Edicions Bassegoda olot 1981 (sant feliu de riu)<br>Guia botànica i estudi integrat d’itineraris de muntanya  ConsorcideAltaGarrotxa_butlleti_9.pdf<br>magazine Verntallat : Bulletí informatiu de la Germandat Sindical de LLauradors I Ramaders de Vall de Bas (Girona) 1975-2004<br>Carrión i Masgrau, Gerard. Itinerari 6: d’Albanyà a Camprodon</p>
+<p>For a person:<br>Full name (last name first). Occupation. Date of interview.<br>EXAMPLE:<br>Smeckleburg, Sweets. Bus driver. April 1, 1996.</p>
+<p>Magazine article:<br>Author (last name first). "Article title." Name of magazine (type of medium). Volume number, (Date): page numbers. If available: publisher of medium, </p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2016/8/28/bibliography</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>104</wp:post_id>
+      <wp:status>draft</wp:status>
+      <pubDate>Sun, 28 Aug 2016 17:22:57 +0000</pubDate>
+      <wp:post_date>2016-08-28 17:22:57</wp:post_date>
+      <wp:post_date_gmt>2016-08-28 17:22:57</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>history</title>
+      <link>/new-blog-2/2016/7/11/history</link>
+      <content:encoded><![CDATA[<p> </p><p> </p><p>At the end of the fourteenth century and the next, pests affecting the valley like the whole region. Then came the earthquakes and riots serfs.</p><p>The sixteenth and seventeenth centuries were characterized by banditry. Reaching the nineteenth century with the misdeeds of the famous "Boquica."</p><p> </p><p>The wars against France had its importance in the area. In 1794, 15 000 men of the French army came across the border and were located in Camprodon. The Spaniards occupied the mountains of San Antonio Capsacosta and managed to retreat to the French border.</p><p> </p><p>Attempts invasion of the nineteenth century by the French made many farmers abandon their properties to go to places that seemed reassured. During this time, the parishes of the valley Bianya were forced to supply food to the troops. This caused serious headaches for the population.</p><p> </p><p>Carline wars affected also the area. The news of clashes between the two sides in the area of apsacosta the outskirts of San Salvador de Bianya and industry Hostalnou Bianya.</p><p> </p><p>The civil war in 1936 brought more hardship to the population. Churches were burned, people were killed and many homeowners saw their houses were seized by refuges.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2016/7/11/history</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>105</wp:post_id>
+      <wp:status>draft</wp:status>
+      <pubDate>Mon, 11 Jul 2016 16:06:28 +0000</pubDate>
+      <wp:post_date>2016-07-11 16:06:28</wp:post_date>
+      <wp:post_date_gmt>2016-07-11 16:06:28</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>Symbols and Iconography</title>
+      <link>/new-blog-2/2016/7/11/symbols-and-iconography</link>
+      <content:encoded><![CDATA[<p>utube romanic obert - pantocrator - all powerful</p><p>Alpha and omega prince of the beginning and end of everything</p><p>mandorla mystic representing :</p><p>blue - sky</p><p>green - water</p><p>red - fire</p><p>positive things - llevant east</p><p>negative things - ponent west, entrance</p><p>numbers:</p><p>3 signified the trinity (triangle)</p><p>4 the earth with 4 compasss signs (circle)</p><p>inside church:</p><p>bird represents the soul flying up to the sky</p><p>lion and eagle - strength and nobility</p><p>monkey, snake ,pig , rabbit, dragon negative associated with impure behaviour</p><p>erotic sculptures warned against impurity of flesh</p><p><strong>sant gregori - la pintura es l'escritura dels </strong></p><p><strong>ignorants</strong></p><p> </p><p>men and women were separate in church at this time. relics kept in the altar table</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2016/7/11/symbols-and-iconography</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>106</wp:post_id>
+      <wp:status>draft</wp:status>
+      <pubDate>Mon, 11 Jul 2016 16:04:10 +0000</pubDate>
+      <wp:post_date>2016-07-11 16:04:10</wp:post_date>
+      <wp:post_date_gmt>2016-07-11 16:04:10</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>Romanesque</title>
+      <link>/new-blog-2/2016/7/11/romanesque</link>
+      <content:encoded><![CDATA[<p><strong>&nbsp;</strong></p><p> </p><p> </p><p>In the 1920's American art collectors and dealers got up to all sorts of sculduggery to asquire Romanesque murals and paintings, even a whole cloister was transported to America. Burros over the pyrenees stc&nbsp;</p><p>Garrotxa not so affected as Vall de Boí but people then as now are proud of their heritage but not .... liked baroque&nbsp;</p><p> </p><p>date: 12th century refers to Romanesque style of the current building, not when it was built originally. Often there was a previous church rebuilt in a similar style or a 12th century building rebuilt after the 15th century earthquakes in the same style as the original church.&nbsp;</p><p> </p><p>12th century catalan Romanesque characteristics: incorporation of attached columns to pillars (or reverse in English?) as in Sant Joan monastery</p><p style="text-align:center"> </p><p>Romanesque in Garrotxa much later than Romanesque in other areas - 12th 13th century&nbsp;</p><p>garrotxa characteristic the way the doors were made in 12th century - series of graded arches with or without columns framing a rectangular door with lintel and tympanum</p><p> </p><p>Often there are no windows on the North side because it is not a good source of light, but does let in the cold.</p><p>Bell gables have been converted to belfries for stylistic reasons but also as part of later fortifications.</p><p> </p><p>inside not much info as rare to get in</p><p>romanesque</p><p>There is a very high concentration of Romanesque in the Pyrenees and Pre-Pyrenees. All religious - churches, frescoes, on wood, Mare's de Deu. Reflected the new feudal order- hierarchy, submission of peasants to lords and invocation of god as justification.&nbsp;</p><p>Hard places to live so small population for so many churches, hermitages and monasteries. South of this area (Montsec?) was empty unpopulated land or muslim - obregat. military frontier, violent.</p><p>Tranhumancia vertical - up in summer, down in autumn when snows started - sheep and cows.</p><p>Frankish/ Carolingian empire relation. NB valleys to control for lords - done via church. Collected delma - deuda dec a deu? decima part of harvest</p><p>churches permitted collection of this tax</p><p>biblical origins of tax?</p><p>social fiscal control of territory.</p><p>socialised, meet up, discuss in church</p><p>1000 - 13th c = romanesque.</p><p>from 5th to 10th century the artistic forms were all roman derivatives - visigoth, franks, degradation of roman forms.</p><p> </p><p>in 1000AD a resurgance, churches rebuilt, increased agricultural production, revitalisation, expansion of christianity. Romanesque first global artistic movement not local in spirirt.</p><p>Catalan romanesque not same as rest of iberian peninsula or france - more similarities to N of italy, lombard</p><p>sant pere de rodes first example of native style. had commercial, cultural, economic, spiritual links to northern italy via the sea.</p><p>1075 2nd romaensque phase but in Catalunya not change very much.</p><p>first phase lombards, itinerent builders.</p><p>arcs secs separated by llesenes or pilasters.</p><p> </p><p>every wall had justification nothing random or just decoration (probably)</p><p> </p><p>en guardia programme gives as eg cuixa and master of works garcias monjo for oliba. 4 column red and white, 7 feet high carobi?</p><p>vision of gloria martyrs</p><p>red their passion</p><p>white for their spirits, purity</p><p>bases, strong, maintain unity of the population.every element had meaning</p><p>manifestation of good - message to be deciphered.</p><p> </p><p>you can orientate yourselves when no sun, no compass, fog, lost in the woods, by the churches apse - light of got to the east, equinox light hits altar.</p><p>door at back to west where dark and sun goes down 'esquerna', where devils live</p><p> </p><p>In the 12th century there was an increase in the population and pilgrimages increased, an important way for the spreading of forms and iconographies, increasing demand for stonemason workshops, sculptors and painters and many church buildings were renovated.</p><p>the monks in sant joan for example They lived offworking in the fields, renting land to peasants, controlling the mills, donations. They were powerful places, monasteries and st joan les fonts was a centre of power and culture like the others – the monks transcribed and copied books and had an important library.&nbsp;</p><p>cimboli altar - oven shaped, symbol of sky.</p><p>vault in shape meant universe</p><p>cupula curvilinear - universe, sky</p><p>nave was path towards light a pilgrimage between altar and nave cimboli tallo de llum</p><p>in the romanicmaria was new?</p><p>tympanum last judgement, end of times but you go to the light</p><p>cupula del creuer</p><p>transition space, purifying light, god here, altar under symbol of universe.</p><p> </p><p>earth- creuer square</p><p> </p><p>universe&nbsp;</p><p>sky</p><p>earth - 4 elements air water fire earth, 4 columns of square</p><p> </p><p>sermon at posta del sol shadows lengthen</p><p>earthly paradise - america for columbus</p><p>throne of trinity</p><p>sol de justicia - sunset</p><p> </p><p>majestat paintings in vault of apse</p><p>missa feia amb esquena al poble, facing light</p><p>social uses - belltower. - so died, fire, war? sagreres to keep nb documents compra venta</p><p>church organised society</p><p>nothing random or creative</p><p>french church serralonguedirection of saints</p><p> </p><p>els bestiaries v popular in 11th and 12th c</p><p>polux morales animals attributed a moral value</p><p>elephant not possessed by desire to copulate</p><p>mandrigula gives birth in a lake like baptism. positive symbol</p><p>9th century calipha emperor franks had seen elephant, so seen it</p><p> </p><p>la mona 'sensa cua' meant play on words in latin 'cinecautex' sense 'escritura'. negative symbol ignorance</p><p> </p><p>sirena thought existed cried in good weather and canta allegra in bad weather attracting ships to danger. negative</p><p> </p><p>flowers rosa fe sant jordi</p><p>violeta love</p><p>change significance over time</p><p>The strange thing is that as soon as you leave the Garrotxa, everything immediately becomes more ornate. Doesn't matter what direction you go in - Cuixà, Camprodon, Sant Joan de les Abadesses, Beget? to the north, Ripoll to the west, Llado to the east, Porqueres to the South</p><p>thick walls because of barrel vault being very heavy. v solid</p><p>bell towers came later, first for fortification then bells</p><p> </p><p>romanesque painting best in europe?</p><p>pantocrator v popular, deu en majestat</p><p>soc el llum del mon - in book in hand</p><p>evangelists, 4 animals of apocalypse are 4 apostles, light comes from us</p><p>cylindrical part of vault mare de deu and apostles</p><p>columns - apostles?</p><p>no images anywhere except in church so v big impacyt when seen</p><p> </p><p>frsh calç lasted 1 day only, first did black and white drawing, dried v quickly so were very skilled.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2016/7/11/romanesque</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>107</wp:post_id>
+      <wp:status>draft</wp:status>
+      <pubDate>Mon, 11 Jul 2016 16:02:30 +0000</pubDate>
+      <wp:post_date>2016-07-11 16:02:30</wp:post_date>
+      <wp:post_date_gmt>2016-07-11 16:02:30</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>method of attack</title>
+      <link>/new-blog-2/2016/7/11/method-of-attack</link>
+      <content:encoded><![CDATA[<p> </p><p>why so many hermitages in the area? alot of war - mention a few. escaped to mountains. needed to go to missa, masias scattered for protection- inaccessible?&nbsp;</p><p>Museums worth visiting</p><p><br />There are walks, cycle circuits, historical information,geographical jots, Catalan soundbites to help you make yourself understood, along with a couple of quick games or puzzles. The culture vulture section aims to give information on local annual or weekly events, such as markets, fiestas and other festivals.</p><p> </p><p><strong>Geog/ regions, main towns, rivers, mountains </strong></p><p> </p><p>The Garrotxa was rapidly conquered by the Franks and quickly populated with monasteries with the aim of rooting christianity in the visigoth? population but also of educating it in the ways of agriculture. In this way the lands conquered by the saracens was populated by christians and were productive(es mantenien productives pel correu, sobretot de la vinya)</p><p>It was a secure way of consolidating the territory with faith and the exploitation of the land. Sofrom the 9th century many churches were built in the style of the time. So most of the churches have their origin in the 9th and 10th century.</p><p>The Romanesque of the 9th century is poor quality (mitjans and recursos), austere and precise in its orientation. There is no rich ornamentation, especially in the mountains. The nearer to the rich nobles in the valley, the more ornamentation is found.</p><p><strong>origin of catalans - theories</strong></p><p>16th century aragonese historian Jerónimo Zurita established a connection between catalani and castellani, the pre roman tribe mentioned in the 2nd century AD by Ptolemy which occupied the Garrotxa.</p><p>another theory 15th century by italian Lorenzo Valla suggests that name of catalans comes from mix of 'goths' and 'alans' one of the 3 tribes which in the 5th century contributed to the destruction of the romans and invaded the iberian peninsula</p><p>goths were germanic</p><p>castells habitats de catalunya - oriol pi de cabanyes - edicions 62 p79</p><p> </p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2016/7/11/method-of-attack</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>108</wp:post_id>
+      <wp:status>draft</wp:status>
+      <pubDate>Mon, 11 Jul 2016 16:01:18 +0000</pubDate>
+      <wp:post_date>2016-07-11 16:01:18</wp:post_date>
+      <wp:post_date_gmt>2016-07-11 16:01:18</wp:post_date_gmt>
+      <dc:creator>lizamaneli@gmail.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <link>/home-1/</link>
+      <title>Home</title>
+      <pubDate>Mon, 04 Jun 2018 14:48:18 +0000</pubDate>
+      <content:encoded><![CDATA[[caption id="" align="alignnone" width="427.0"]<a href="/vall-de-bianya" ><img src="https://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/t/5794f556c534a514ed18a9b8/1470158860286/?format=original" alt=" Roman,&nbsp;Romanesque, Rock &amp;&nbsp;Ruin "/></a>  Roman,&nbsp;Romanesque, Rock &amp;&nbsp;Ruin [/caption] 
+  
+
+<h2 class="text-align-center">Valls de Bianya &amp;&nbsp;Bac</h2><hr />&nbsp;
+  
+       [caption id="" align="alignnone" width="480.0"]<a href="/new-blog-3" ><img src="https://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/t/5794eef6ebbd1a3518b51523/1471967994566/?format=original" alt=" Plateaux and Peaks "/></a>  Plateaux and Peaks [/caption] 
+  
+
+<h2 class="text-align-center">Vall d'en Bas</h2><hr />&nbsp;
+  
+       [caption id="" align="alignnone" width="480.0"]<a href="/new-blog" ><img src="https://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/t/5794f21759cc68a490d20189/1469467028820/IMG_8254.jpg?format=original" alt=" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Meadows,&nbsp;Monks and Mountains "/></a>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Meadows,&nbsp;Monks and Mountains [/caption] 
+  
+
+<h2 class="text-align-center">Beuda &amp;&nbsp;</h2><h2 class="text-align-center">Maià de Montcal</h2><hr />&nbsp;&nbsp;
+  
+       [caption id="" align="alignnone" width="427.0"]<a href="/new-blog-2" ><img src="https://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/t/5794f9c42994cace5cb960a9/1471103972851/?format=original" alt=" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Not just &nbsp;Pretty Pasture "/></a>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Not just &nbsp;Pretty Pasture [/caption] 
+  
+
+<h2 class="text-align-center">Introduction to the Garrotxa</h2>
+  
+       [caption id="" align="alignnone" width="425.0"]<a href="/alta-garrotxa" ><img src="https://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/t/5794edd6579fb36d1f7b1f91/1470158876345/?format=original" alt=" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Smugglers and Contraband "/></a>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Smugglers and Contraband [/caption] 
+  
+
+<h2 class="text-align-center">Sadernes, Montagut &amp; Oix</h2><hr />&nbsp;
+  
+       [caption id="" align="alignnone" width="427.0"]<a href="/santa-pau" ><img src="https://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/t/5794f01220099e05310a80a9/1471968139422/santa+pau+.jpg?format=original" alt=" Volcanoes and Views "/></a>  Volcanoes and Views [/caption] 
+  
+
+<h2 class="text-align-center">Santa Pau</h2><hr />&nbsp;
+  
+       [caption id="" align="alignnone" width="425.0"]<a href="/sant-joan-les-fonts" ><img src="https://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/t/5794f7e01b631bb132574ff5/1470676329673/?format=original" alt=" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Basalt cliffs&nbsp; "/></a>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Basalt cliffs&nbsp; [/caption] 
+  
+
+<h2 class="text-align-center">Sant Joan les Fonts, Begudà</h2><h2 class="text-align-center">&amp;&nbsp;Castellfollit de la Roca &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</h2><hr />&nbsp;&nbsp;
+  
+       [caption id="" align="alignnone" width="853.0"]<a href="/jewels-on-the-outskirts-of-the-garrotxa-ripoll-beget-sant-joan-de-les-abadesses-camprodon" ><img src="https://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/t/579766a3f7e0ab0318e9bb74/1528123547522/camprodon13.jpg?format=original" alt=" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jewels aroundthe edge "/></a>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jewels aroundthe edge [/caption] 
+  
+
+<h2 class="text-align-center">Camprodon, Ripoll, Beget &amp;</h2><h2 class="text-align-center">Sant Joan de les Abadesses</h2>
+  
+       [caption id="" align="alignnone" width="404.0"]<a href="/besal" ><img src="https://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/t/5794f6e89de4bb611c800dc9/1470159168868/?format=original" alt=" &nbsp; &nbsp; &nbsp; &nbsp; Medieval Mikbé and Feudal Walls "/></a>  &nbsp; &nbsp; &nbsp; &nbsp; Medieval Mikbé and Feudal Walls [/caption] 
+  
+
+<h2 class="text-align-center">Besalù</h2><hr />&nbsp;
+  
+       [caption id="" align="alignnone" width="460.0"]<a href="/olot" ><img src="https://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/t/5794ed44197aea34ace1da0e/1471968478886/IMG_5809.jpg?format=original" alt=" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wetlands and Walks "/></a>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wetlands and Walks [/caption] 
+  
+
+<h2 class="text-align-center">Olot</h2><hr />&nbsp;
+  
+       [caption id="" align="alignnone" width="3000.0"]<a href="/vall-del-bac" ><img src="https://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/t/57975f8ed482e9b79a545c81/1471103920253/?format=original" alt=" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hidden paths "/></a>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hidden paths [/caption] 
+  
+
+<h2 class="text-align-center">Sant Jaume de Llierca,&nbsp;</h2><h2 class="text-align-center">Argelaguer &amp;&nbsp;Sant Ferriol</h2><hr />&nbsp;&nbsp;
+  
+       [caption id="" align="alignnone" width="427.0"]<a href="/oix" ><img src="https://static1.squarespace.com/static/5762ab242994ca9fff28ea9b/t/579762795016e117f18f9144/1471103949550/?format=original" alt=" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mysterious middle ages "/></a>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mysterious middle ages [/caption] 
+  
+
+<h2 class="text-align-center">Sant Feliù de Pallerols, Mieres,&nbsp;Sant Aniol de Finestres &amp;&nbsp;Les Planes d'Hostoles</h2>&nbsp;]]></content:encoded>
+      <wp:post_name>home-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>109</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <title>Gipfel</title>
+      <link>/gipfel/</link>
+      <pubDate>Tue, 01 Mar 2016 16:29:32 +0000</pubDate>
+      <content:encoded><![CDATA[<div></div>]]></content:encoded>
+      <wp:post_name>gipfel</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>110</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
